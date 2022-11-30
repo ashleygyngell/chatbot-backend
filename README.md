@@ -14,7 +14,7 @@ The free servers on Heroku sleep when they are not in use, so please allow a few
 
 Feel free to register as a user or use: **email:** `demo@demo.com` **password:** `Demo123!`
 
-This Repo is for the frontend only. The code for the backend is available [here](https://github.com/ashleygyngell/chatbot-backend).
+This Repo is for the backend only. The code for the frontend is available [here](https://github.com/ashleygyngell/chatapp-frontend).
 
 # Languages / Frameworks / Databases used
 
