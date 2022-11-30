@@ -28,7 +28,7 @@ This Repo is for the backend only. The code for the frontend is available [here]
 
 # Concept
 
-The project was concieved in collaboration with [Edward Foulds](https://github.com/FouldsEJ), who helped build the [backend](https://github.com/ashleygyngell/chatbot-backend).
+The project was concieved in collaboration with [Edward Foulds](https://github.com/FouldsEJ), who helped build this backend. 
 
 Our idea was as follows: 
 
